@@ -1,0 +1,12 @@
+.singin{
+    text-align: center;
+}
+.login{
+    background-image: url("img/bglogin.jpg");
+    background-repeat: repeat;
+}
+.textlogin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
